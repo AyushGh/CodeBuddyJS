@@ -2,7 +2,7 @@
 //Write a function in Javascript to print the sum of the first n fibonacci numbers.
 
 function fibonacci(num) {
-    let a = 0;
+    let a = 1;
     let b = 1;
     let c;
     console.log(a);
